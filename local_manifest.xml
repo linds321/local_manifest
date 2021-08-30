@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/violet" name="kingsmankdi/violet_trees" remote="kingsmankdi" revision="r" />
+ <project path="device/xiaomi/sm6150-common" name="xiaomi-sm6150/android_device_xiaomi_sm6150-common" remote="github" revision="ruby" />
+ <project path="vendor/xiaomi" name="karthik558/R_vendor_xiaomi_violet" remote="github" revision="11-R" />
+ <project path="kernel/xiaomi/sm610" name="raghavt20/kernel_sm6150" remote="github" revision="r" />
+ 
+</manifest>
